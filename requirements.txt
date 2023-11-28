@@ -1,1 +1,2 @@
-
+djangogirls/requirements.txt
+Django~=3.2.10
